@@ -11,19 +11,23 @@ This project automates the process of sending personalized emails along with cer
 - [Customization](#customization)
 - [License](#license)
 
-## Folder Structure
+## Directory Structure
 
 ```
-automate-text-mail-with-attachments/
-|-- automatedTextMailWithAttachment.ipynb
-|-- campList.csv
-|-- certs/
-|   |-- avibaral.png
-|   |-- bibitkunwar.png
-|   |-- janamkunwar.png
-|-- sendAutomatedTextMail.ipynb
-|-- sendMailAndCerts.py
-|-- textMailAutomation.py
+./automate-text-mail-with-attachments
+├── LICENSE
+├── README.md
+├── automatedTextMailWithAttachment.ipynb
+├── requirements.txt
+├── sendAutomatedTextMail.ipynb
+├── sendMailAndCerts.py
+├── src
+│   ├── campList.csv
+│   └── certs
+│       ├── avibaral.png
+│       ├── bibitkunwar.png
+│       └── janamkunwar.png
+├── textMailAutomation.py
 ```
 
 ## Prerequisites
