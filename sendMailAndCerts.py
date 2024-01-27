@@ -84,4 +84,3 @@ for recipient in recipients:
     time.sleep(2)
 
 server.quit()
-print('Emails sent successfully.')

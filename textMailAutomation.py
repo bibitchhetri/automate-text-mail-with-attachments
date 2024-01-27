@@ -69,4 +69,3 @@ for recipient in recipients:
 
 # Quit the server after sending all emails
 server.quit()
-print('Emails sent successfully.')
